@@ -2019,7 +2019,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Nav Meu Styling */
 .nav-menu a {
-  padding: 0 8px 0px 8px;
+  padding: 0 4px 0px 4px;
   text-decoration: none;
   display: inline-block;
   color: #fff;
@@ -2309,7 +2309,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 60px;
   font-weight: 600;
   line-height: 1em;
-  margin-top: 20px;
+  margin-top: 90px;
   margin-bottom: 20px;
 }
 
